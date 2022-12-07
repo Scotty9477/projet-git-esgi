@@ -7,6 +7,6 @@
 #include <string.h>
 
 int main(int argc, char *argv[]) {
-    printf("Hello develop!");
+    printf("Hello stagiing!");
     return 0;
 }
