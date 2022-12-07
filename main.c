@@ -7,6 +7,6 @@
 #include <string.h>
 
 int main(int argc, char *argv[]) {
-    printf("Hello stagiing!");
+    printf("Hello, main from feature 2!");
     return 0;
 }
